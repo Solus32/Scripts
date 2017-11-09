@@ -280,4 +280,6 @@ mangastream.com##.msa.msa-728_90.blocked
 mangastream.com###msa-reader-side
 mangastream.com##.msa.msa-300_600.blocked
 tumangaonline.com##.chat.ng-scope
+eporner.com##.ad300px
+||st.chatango.com/h5/gz/r1107171321/id.html
 ||tpc.googlesyndication.com/safeframe/*
