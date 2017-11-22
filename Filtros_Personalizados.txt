@@ -283,3 +283,11 @@ tumangaonline.com##.chat.ng-scope
 eporner.com##.ad300px
 ||st.chatango.com/h5/gz/r1107171321/id.html
 ||tpc.googlesyndication.com/safeframe/*
+pinterest.com.mx##div[style="background: rgba(0, 0, 0, 0.65); transition: height 0.5s cubic-bezier(0.26, 0.87, 0.74, 0.93); backface-visibility: hidden; bottom: 0px; color: rgb(255, 255, 255); height: 100%; position: fixed; width: 100%;"]
+readms.net##.msa-blocked
+readms.net###msa-reader-atf
+readms.net##.msa.msa-728_90.blocked
+readms.net###msa-reader-side
+readms.net##.msa.msa-300_600.blocked
+readms.net###msa-blog-sq
+readms.net##.msa.msa-300_250.blocked
