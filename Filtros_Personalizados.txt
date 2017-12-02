@@ -291,3 +291,13 @@ readms.net###msa-reader-side
 readms.net##.msa.msa-300_600.blocked
 readms.net###msa-blog-sq
 readms.net##.msa.msa-300_250.blocked
+gsmarena.com###aswift_1
+gsmarena.com###aswift_0
+gsmarena.com###aswift_1_anchor
+gsmarena.com###aswift_1_expand
+gsmarena.com###aswift_0_anchor
+gsmarena.com###aswift_0_expand
+gsmarena.com###topAdv
+gsmarena.com##.table-cell.reviews-xl-snazzy
+gsmarena.com##.alt-display.is-review
+gsmarena.com###subHeader
