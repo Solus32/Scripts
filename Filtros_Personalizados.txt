@@ -300,3 +300,6 @@ spoiler.net##.home-side.pull-right
 ||xxxvideosputas.xxx/cams/*
 ||tpc.googlesyndication.com/safeframe/*
 ||st.chatango.com/h5/gz/r1107171321/id.html
+||tumangaonline.com/img/no-pub-1.png
+||tumangaonline.com/img/no-pub-2.png
+||pushance.com/ntfc.php
