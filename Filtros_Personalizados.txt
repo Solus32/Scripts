@@ -133,6 +133,22 @@ quadratin.com.mx##.textwidget
 readms.net##.auth-guest.side-nav.bitcoin-msg
 spoiler.net##.hidden-xs.hidden-sm.pull-right.spoiler-top
 spoiler.net##.home-side.pull-right
+eporner.eu##.vjs-inplayer-container
+cnet.com##.inviewElement.dock.entered
+pinterest.com.mx##.FullPageModal__scroller
+pinterest.com.mx##div[style="background-color: rgba(0, 0, 0, 0.6); opacity: 1; position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; z-index: 1000;"]
+pinterest.com.mx##div[style="background-color: rgba(239, 239, 239, 0.96); opacity: 1; position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; z-index: 1000; cursor: zoom-out;"]
+washingtonpost.com##.modal
+washingtonpost.com##.modal-mask
+novelasymangasjpo.blogspot.com###g207
+yts.am##a[style="position: fixed; z-index: 78947585; width: 99%; height: 99%; top: 3px; bottom: 3px; left: 1px; right: 2px;"]
+m.fanfox.net##span[style="position: absolute; top: -20px; right: 0px; width: 40px; height: 40px; z-index: 99999; background: url(\"//ad.sitemaji.com/static/close_circle.png\") 0% 0% / contain no-repeat; color: rgb(255, 255, 255); cursor: pointer;"]
+m.fanfox.net##div[style="position: absolute; z-index: 1; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5);"]
+m.fanfox.net##.sitemaji_inters
+cnet.com##.col-4
+animeyt.tv###ADSPC
+animeyt.tv##.ed-container.bloques-descargas
+mkvcage.ws##.textwidget.custom-html-widget
 ||1000fondosescritorio.com/msn/*
 ||46.105.108.2/miamiglobalradio.com/mediaplayer/*
 ||7000fotos.com/images/*
@@ -298,8 +314,20 @@ spoiler.net##.home-side.pull-right
 ||static.wixstatic.com/media/23155f_0f5ca729bdaa4781b28a3469b3b3e6bf~mv2.gif
 ||ads-a.juicyads.com/network/*
 ||xxxvideosputas.xxx/cams/*
+||xxxvideosputas.xxx/cams/*.gif
 ||tpc.googlesyndication.com/safeframe/*
 ||st.chatango.com/h5/gz/r1107171321/id.html
 ||tumangaonline.com/img/no-pub-1.png
 ||tumangaonline.com/img/no-pub-2.png
 ||pushance.com/ntfc.php
+||iz682noju02ye5.com/*
+||comic.kukudm.com/xm/mm.html?s=middle
+||comic.kukudm.com/xm/mm.html?s=top_1
+||horriblesubs.info/images/b/FigureSE.jpg
+||horriblesubs.info/images/b/SnacksSE.jpg
+||horriblesubs.info/images/b/DoujinshiSE.jpg
+||horriblesubs.info/images/b/FigureBE.jpg
+||horriblesubs.info/images/b/NendoroidSE.jpg
+||horriblesubs.info/images/b/SnacksBE.jpg
+||horriblesubs.info/images/b/DoujinshiBE.jpg
+||s22.postimg.cc/4rx4wp30h/extreme.png
