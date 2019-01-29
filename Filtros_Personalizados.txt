@@ -149,6 +149,18 @@ cnet.com##.col-4
 animeyt.tv###ADSPC
 animeyt.tv##.ed-container.bloques-descargas
 mkvcage.ws##.textwidget.custom-html-widget
+m.fanfox.net##.mobile-banner
+xvideos.com##.x-message.x-message-info
+xvideos.com##.icon-f.icf-info-circle
+xvideos.com##.ic
+xvideos.com###ad-tower-div
+xvideos.com##.mobile-hide
+nensaysubs.net###g207
+msguides.com##.JaedeihRUmsT-default
+msguides.com##.JaedeihRUmsT-bg
+m.fanfox.net###edShow
+rickyromeropro.blogspot.com###g207
+mangatown.com###edShow
 ||1000fondosescritorio.com/msn/*
 ||46.105.108.2/miamiglobalradio.com/mediaplayer/*
 ||7000fotos.com/images/*
@@ -331,3 +343,6 @@ mkvcage.ws##.textwidget.custom-html-widget
 ||horriblesubs.info/images/b/SnacksBE.jpg
 ||horriblesubs.info/images/b/DoujinshiBE.jpg
 ||s22.postimg.cc/4rx4wp30h/extreme.png
+||3.bp.blogspot.com/-VTm7dg_VWtM/Uwm0vrF7-NI/AAAAAAAAAn8/Hx6BcqZ6wwE/s1600/gomenasai.png
+||css122us.cdndm5.com/v201812291704/mangazone/images/pc-bg-2.png
+||css122us.cdndm5.com/v201812291704/mangazone/images/pc-bg-2-mangatown.png
