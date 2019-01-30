@@ -1,3 +1,3 @@
 # Scripts
 
-Scripts Necesarios para GNU/Linux
+Scripts Necesarios para Debian
