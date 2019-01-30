@@ -1,3 +1,3 @@
 # Scripts
 
-Scripts Necesarios para usos multiples
+Scripts Necesarios para GNU/Linux
