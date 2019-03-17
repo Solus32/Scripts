@@ -1,5 +1,6 @@
-Eliminar Paquetes de deb-multimedia.org
----------------------------------------
+###############################################
+### Eliminar Paquetes de deb-multimedia.org ###
+###############################################
 
 1. Editar sources.list , eliminando el repo de deb-multimedia (dmo)
 
@@ -7,18 +8,18 @@ Eliminar Paquetes de deb-multimedia.org
         ### Linux Mint ###
         ##################
 
-    gksudo pluma /etc/apt/sources.list.d/official-package-repositories.list
+    xed admin:///etc/apt/sources.list.d/official-package-repositories.list
 
         ##############
         ### Debian ###
         ##############
 
-    gksu leafpad /etc/apt/sources.list
+    gedit admin:///etc/apt/sources.list
 
 
 2. Hacer un update
 
-    sudo apt-get update
+    sudo apt update
 
 
 3. Ver que paquetes estan instalados de dmo
@@ -35,12 +36,12 @@ Eliminar Paquetes de deb-multimedia.org
 
 6. Hacer un update
 
-    sudo apt-get update
+    sudo apt update
 
 7. Reparar los paquetes
 
-    sudo apt-get install -f
+    sudo apt install -f
 
 8. Usar nuestra lista de instalacion de apt-get Cinnamon, apt-get Mate, etc
 
-9. sudo apt-get autoremove
+9. sudo apt autoremove
